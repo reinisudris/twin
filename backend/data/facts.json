@@ -1,0 +1,21 @@
+{
+  "full_name": "Reinis Udris",
+  "name": "Reinis",
+  "current_role": "Product Owner",
+  "location": "Latvia",
+  "email": "reinisu@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/reinis-udris/",
+  "specialties": [
+    "Product Management",
+    "Research",
+    "Agile"
+  ],
+  "years_experience": 5,
+  "education": [
+    {
+      "degree": "PhD in Sociology (Specialization: Quantitative Methods & Statistics)",
+      "institution": "Osaka University",
+      "year": "2016"
+    }
+  ]
+}
